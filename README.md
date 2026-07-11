@@ -1,2 +1,2 @@
 Merhabalar,
-Klasörde takımımız hakkında kısa bilgilendirme PDF'i, Takım tanıtım slaytı ve proje fikrimizin PDF'i bulunmaktadır.
+Klasörde takımımız hakkında kısa bilgilendirme PDF'i, Takım tanıtım slaytı ve proje fikrimizin PDF'i bulunmaktadır. Proje değil sadece tanıtımdır.
